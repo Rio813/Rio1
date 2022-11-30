@@ -1,10 +1,9 @@
 aaaaaaaaa
 bbbbbbbbb
 ccccccccc
-<<<<<<< HEAD
 ddddddddd-master
-=======
 ddddddddd-master1
 eeeeeeeee-master1
 fffffffff-master1
->>>>>>> refs/remotes/rio1/master1
+eeeeeeeee-master
+fffffffff-master
